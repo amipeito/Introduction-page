@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  height: 550px;
+  background: url(../images/314784.jpg);
+  text-align: center;
+}
+.UL1 {
+  display: inline-block;
+  color: white;
+}
+.li1 {
+  display: inline-block;
+  padding: 30px;
+}
+.li1:hover {
+  color: black;
+  background: white;
+}
+.h1 {
+  text-align: center;
+  margin-top: 100px;
+  color: chartreuse;
+}
+.span1 {
+  color: aqua;
+}
+.p1 {
+  color: white;
+  margin-top: 70px;
+}
+.div1 {
+  width: 420px;
+  height: 50px;
+  border-radius: 20px;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+    rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  text-align: center;
+  line-height: 50px;
+}
+.admins {
+  height: 700px;
+  text-align: center;
+  margin-top: 10px;
+  width: 1400px;
+}
+.cont {
+  height: 600px;
+  text-align: center;
+}
+.cont1 {
+  display: inline-block;
+  background-size: cover;
+  height: 600px;
+  width: 400px;
+  margin: 15px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  font-size: 18px;
+}
+.cont1 > img {
+  width: 100%;
+  height: 40%;
+}
+.h.one {
+  margin-top: 10px;
+}
+.p {
+  padding: 17px;
+}
+.about {
+  height: 700px;
+  background-position: center;
+  background-size: cover;
+  background: url(../images/pexels-shotbyrain-3497624.jpg);
+  text-align: center;
+  color: azure;
+}
+.a {
+  padding: 1px;
+  text-align: center;
+  width: 400px;
+  height: 400px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  display: inline-block;
+  margin: auto;
+  margin-top: 100px;
+  border-radius: 50%;
+}
+.h01 {
+  margin-top: 20px;
+  padding: 2px;
+  text-align: center;
+  font-size: 28px;
+}
+.p3 {
+  margin-top: 0;
+  text-align: center;
+  padding: 25px;
+  font-size: 14px;
+}
+.footer {
+  height: 100px;
+  line-height: 100px;
+  background: gray;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+}
+i {
+  margin: 10px;
+}
